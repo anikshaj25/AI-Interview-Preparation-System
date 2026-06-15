@@ -1,0 +1,20 @@
+{
+    "Arrays": [
+        "Find duplicate ele,ent in array",
+        "Maximum subarray sum",
+        "Rotate array by k steps",
+        "Two sum problem"
+    ],
+
+    "Linked List": [
+        "Reveres linked arrray",
+        "Merge two linked list"
+    ],
+
+    "Stack": [
+        "Valid Paranthesis",
+        "Implement stack using queue",
+        "min stack"
+
+    ]
+}
